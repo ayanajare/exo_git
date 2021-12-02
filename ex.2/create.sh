@@ -10,6 +10,7 @@ function _ex() {
     touch out/main.o
     touch out/a.out
     touch out/conf.ini
+    
 }
 
 _ex
